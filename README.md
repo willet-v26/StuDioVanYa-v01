@@ -5,8 +5,7 @@
 ![preview](./images-view/05.jpg)
 
 ### Project:
-http://free.p-evo.com/index.php/pl/
-
+http://free.p-evo.com
 ### General info:
 2021 | Architectural Studio website | Unfinished project
 	
